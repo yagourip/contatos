@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Contatos Supabase",
+  "description": "Sistema moderno para armazenamento e gestão de contatos integrado ao banco de dados Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
